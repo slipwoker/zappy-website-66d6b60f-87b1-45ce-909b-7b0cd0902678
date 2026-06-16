@@ -4,6 +4,18 @@
     <title>💝סקושים💝</title>
     <link>https://example.com</link>
     <description>Product feed for 💝סקושים💝</description>
-    <lastBuildDate>Tue, 16 Jun 2026 16:54:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:07:54 GMT</lastBuildDate>
+    <item>
+      <g:id>80906a65-c63c-4a70-8bf6-b05a9f9913ea</g:id>
+      <g:title>💝דמפלינג💝</g:title>
+      <g:description>‏יכול לתת כמה סוגים יכול לצאת אפילו סיקרט וזהו זה ממש מיוחד</g:description>
+      <g:link>https://example.com/product/dmplyng-cafbxu</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1781629256774-dqdsy.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>30.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>💝סקושים💝</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
