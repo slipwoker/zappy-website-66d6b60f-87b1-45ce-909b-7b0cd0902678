@@ -362,7 +362,7 @@
       </div>
       <div class="search-results" id="mobile-search-results"></div>
     </div>
-<script>window.ZAPPY_WEBSITE_ID = "66d6b60f-87b1-45ce-909b-7b0cd0902678";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "66d6b60f-87b1-45ce-909b-7b0cd0902678";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -403,10 +403,10 @@
   <li><a href="/">בית</a></li><li><a href="/gift-ideas">רעיונות למתנות</a></li><li><a href="/about">אודות</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
-      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
     </button>
     <div class="nav-search-results" id="nav-search-results"></div>
-  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button></div></div>
+  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div></div>
     
     
   </div>
@@ -893,7 +893,7 @@
   <!-- Bottom Divider: Soft Torn-Paper Curve -->
   <div class="index-hero-section__divider-wrapper">
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,80 L0,42 Q50,38 100,44 T200,40 Q250,44 300,36 T400,42 Q450,38 500,44 T600,37 Q650,43 700,39 T800,43 Q850,36 900,42 T1000,40 Q1050,44 1100,37 T1200,42 L1200,80 Z" fill="#FFF8F9"></path>
+      <path d="M0,80 L0,42 Q50,38 100,44 T200,40 Q250,44 300,36 T400,42 Q450,38 500,44 T600,37 Q650,43 700,39 T800,43 Q850,36 900,42 T1000,40 Q1050,44 1100,37 T1200,42 L1200,80 Z" fill="var(--bg-light)"></path>
     </svg>
     <!-- Subtle shadow for the torn edge -->
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="position:absolute; bottom:0; left:0; width:100%; height:100%; z-index:-1;">
@@ -905,11 +905,9 @@
     <section class="featured-products-section" id="featured-products" data-zappy-dynamic="true">
       <div class="container">
         <h2 class="section-title">מוצרים מומלצים</h2>
-        <div class="product-grid featured-grid" id="zappy-featured-products">
-          <div class="loading-products">טוען מוצרים...</div>
-        </div>
-        <div class="view-all-products">
-          <a href="/products" class="btn btn-primary">צפה בכל המוצרים →</a>
+        <div class="product-grid featured-grid" id="zappy-featured-products"><div class="product-card standard" data-product-id="80906a65-c63c-4a70-8bf6-b05a9f9913ea"><div class="product-card-inner"><div class="product-card-media"><a href="/product/dmplyng-cafbxu" class="product-card-image-link"><img src="/assets/product-ai-fit-1781629256774-dqdsy.webp" alt="💝דמפלינג💝"></a><div class="product-tags"><span class="product-tag">limited</span></div><div class="product-card-actions"><button type="button" class="card-quickview-btn" data-card-quickview="" data-product-id="80906a65-c63c-4a70-8bf6-b05a9f9913ea" title="תצוגה מהירה" aria-label="תצוגה מהירה"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M0.833008 9.99967C0.833008 9.99967 4.16634 3.33301 9.99967 3.33301C15.833 3.33301 19.1663 9.99967 19.1663 9.99967C19.1663 9.99967 15.833 16.6663 9.99967 16.6663C4.16634 16.6663 0.833008 9.99967 0.833008 9.99967Z" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10 12.5C11.3807 12.5 12.5 11.3807 12.5 10C12.5 8.61929 11.3807 7.5 10 7.5C8.61929 7.5 7.5 8.61929 7.5 10C7.5 11.3807 8.61929 12.5 10 12.5Z" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"></path></svg></button></div></div><div class="product-card-body"><p class="zappy-editable"><a href="/product/dmplyng-cafbxu" class="product-card-body-link"></a></p><div class="card-content"><h3><a href="/product/dmplyng-cafbxu" class="product-card-body-link">💝דמפלינג💝</a></h3><p class="card-desc"><a href="/product/dmplyng-cafbxu" class="product-card-body-link">‏יכול לתת כמה סוגים יכול לצאת אפילו סיקרט וזהו זה ממש מיוחד</a></p></div><p></p><div class="product-card-footer"><div class="price" data-zc-base="₪30.00">₪30.00</div><div class="price-per-unit-info">₪100.00 / 100גרם</div><a href="/product/dmplyng-cafbxu" class="card-cart-btn view-details-btn" aria-label="לפרטים נוספים"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg></a></div></div></div></div></div>
+        <div class="view-all-products" style="text-align: center !important; display: flex !important; justify-content: center !important; align-items: flex-start !important; width: 100% !important;">
+          <a href="/products" class="btn btn-primary" style="color: rgb(255, 255, 255) !important; outline: medium; border-color: rgb(143, 163, 139) !important; background-color: rgb(143, 163, 139) !important; background-image: none !important;" data-element-type="button" data-element-id="btn-1781629653002-cl7n98q4a" data-native-element="true">צפה בכל המוצרים →</a>
         </div>
       </div>
     </section>
