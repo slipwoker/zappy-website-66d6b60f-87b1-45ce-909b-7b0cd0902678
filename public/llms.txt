@@ -1,0 +1,80 @@
+# 💝סקושים💝 — Generative Engine Optimization Map
+
+> A playful and cute online store specializing in squishy toys, featuring a soft pink and white color palette. The shop starts with a single squishy type and plans to expand to a wide variety of squishies over time. Payments are accepted via Bit (Israeli mobile payment app), giving it a local, accessible feel.
+
+---
+
+## Pages
+
+### בית
+https://-66d6b60f.zappy5.app
+חנות הצעצועים הרכים והחמודים בישראל מחכה לכם! סקושים מפנקים, תשלום קליל בביט ומשלוח עד הבית. התחילו לאסוף עכשיו ותתאהבו בכל לחיצה.
+
+### רעיונות למתנות
+https://-66d6b60f.zappy5.app/gift-ideas
+מחפשים מתנה מקורית שתגרום ללב להימס? רעיונות מפנקים לסקושים במגוון דמויות – מושלם לימי הולדת, הפתעות קטנות או פינוק עצמי. היכנסו ותבחרו אהבה.
+
+### אודות
+https://-66d6b60f.zappy5.app/about
+הכירו את החלום הורוד-רך שלנו: חנות בוטיק לסקושים שצומחת איתכם. מצעצוע בודד ועד אוסף אספנות וינטג&#39;י – כל פרט נבחר באהבה. בואו להיות חלק מהמסע.
+
+### צור קשר
+https://-66d6b60f.zappy5.app/contact
+יש שאלה על צעצוע, רעיון למתנה או סתם בא לכם להגיד היי? צרו קשר איתנו – אנחנו כאן בשבילכם, זמינים וחמודים. שלחו הודעה ותקבלו מענה מהיר עם חיוך.
+
+### Products
+https://-66d6b60f.zappy5.app/products
+המוצרים שלנו - 💝סקושים💝
+
+### Product Detail
+https://-66d6b60f.zappy5.app/product/:slug
+פרטי המוצר - 💝סקושים💝
+
+### Category
+https://-66d6b60f.zappy5.app/category/:slug
+מוצרים - 💝סקושים💝
+
+## Legal & Policy
+
+### Privacy Policy
+https://-66d6b60f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-66d6b60f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-66d6b60f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About 💝סקושים💝
+A playful and cute online store specializing in squishy toys, featuring a soft pink and white color palette. The shop starts with a single squishy type and plans to expand to a wide variety of squishies over time. Payments are accepted via Bit (Israeli mobile payment app), giving it a local, accessible feel.
+
+## Target Audience
+- חובבי אספנות צעירים
+- הורים מחפשי מתנות
+- חובבי קאוואי
+
+## Industry
+Toys & Collectibles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-66d6b60f.zappy5.app/sitemap.xml
+- Robots: https://-66d6b60f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-66d6b60f.zappy5.app/llms-full.txt
+- Products (JSON): https://-66d6b60f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-66d6b60f.zappy5.app/product-feed.xml
